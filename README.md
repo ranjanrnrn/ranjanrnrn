@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ranjan Sahu</h1>
 <h4 align="center">An aspiring full stack web developer from India</h4>
 🔭 I’m currently working on E-commerce web site<br><br>🌱 I’m currently learning Backend<br><br>👨‍💻 All of my projects are available at https://ranjanrnrn.github.io/<br><br>💬 Ask me about HTML, CSS, JavaScript, NodeJs, MongoDB, Express<br><br>📫 How to reach me sahu.ranjanrn@gmail,com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1RmOJPxug2dZY380e_W7hKDMGsUNQB1hm/view?usp=share_link<br><br>⚡ Fun fact I think I am strong
-<h1></h1>
+
 ![](https://visitcount.itsvg.in/api?id=ranjanrnrn&icon=2&color=1)
 
 ## 🌐 Socials:
