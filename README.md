@@ -1,38 +1,27 @@
-[![MasterHead](https:68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)]
-<h1 align="center">Hi 👋, I'm Ranjan Sahu</h1>
-<h3 align="center">An aspiring full stack web developer from India</h3>
+# 💫 About Me:
+🔭 I’m currently working on E-commerce web site<br><br>🌱 I’m currently learning Backend<br><br>👨‍💻 All of my projects are available at https://ranjanrnrn.github.io/<br><br>💬 Ask me about HTML, CSS, JavaScript, NodeJs, MongoDB, Express<br><br>📫 How to reach me sahu.ranjanrn@gmail,com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1RmOJPxug2dZY380e_W7hKDMGsUNQB1hm/view?usp=share_link<br><br>⚡ Fun fact I think I am strong
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanrnrn&label=Profile%20views&color=0e75b6&style=flat" alt="ranjanrnrn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjanrnrn" alt="ranjanrnrn" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rnranjan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rnranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ranjan sahu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rnranjan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ranjan sahu) 
 
-- 🔭 I’m currently working on **E-commerce web site**
-
-- 🌱 I’m currently learning **Backend**
-
-- 👨‍💻 All of my projects are available at [https://ranjanrnrn.github.io/](https://ranjanrnrn.github.io/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJs, MongoDB, Express**
-
-- 📫 How to reach me **sahu.ranjanrn@gmail,com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RmOJPxug2dZY380e_W7hKDMGsUNQB1hm/view?usp=share_link](https://drive.google.com/file/d/1RmOJPxug2dZY380e_W7hKDMGsUNQB1hm/view?usp=share_link)
-
-- ⚡ Fun fact **I think I am strong**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ranjanrnrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ranjanrnrn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranjan sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjan sahu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ranjanrnrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ranjanrnrn" height="30" width="40" /></a>
-<a href="https://instagram.com/rnranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rnranjan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ranjanrnrn&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ranjanrnrn&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanrnrn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjanrnrn&show_icons=true&locale=en&layout=compact" alt="ranjanrnrn" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ranjanrnrn&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjanrnrn&show_icons=true&locale=en" alt="ranjanrnrn" /></p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Ranjan sahu)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanrnrn&" alt="ranjanrnrn" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ranjanrnrn&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
