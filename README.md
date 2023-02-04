@@ -3,7 +3,7 @@
 <h4 align="center">An aspiring full stack web developer from India</h4>
 🔭 I’m currently working on E-commerce web site<br><br>🌱 I’m currently learning Backend<br><br>👨‍💻 All of my projects are available at https://ranjanrnrn.github.io/<br><br>💬 Ask me about HTML, CSS, JavaScript, NodeJs, MongoDB, Express<br><br>📫 How to reach me sahu.ranjanrn@gmail,com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1RmOJPxug2dZY380e_W7hKDMGsUNQB1hm/view?usp=share_link<br><br>⚡ Fun fact I think I am strong
 
-![](https://visitcount.itsvg.in/api?id=ranjanrnrn&icon=2&color=1)
+# ![](https://visitcount.itsvg.in/api?id=ranjanrnrn&icon=2&color=1)
 
 # 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)
