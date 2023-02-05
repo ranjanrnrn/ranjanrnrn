@@ -15,11 +15,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ranjanrnrn&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanrnrn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ranjanrnrn&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
 
-### ✍️ Quote
+# ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
